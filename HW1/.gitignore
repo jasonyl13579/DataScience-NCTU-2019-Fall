@@ -1,6 +1,9 @@
 #self-define
-*.pdf
-
+image/
+*.txt
+!requirements.txt
+ref_ans/*
+!ref_ans/*.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
